@@ -1,5 +1,5 @@
 root: ./flatiron-school/
 
 ​structure:
-  readme: README.md
-  summary: SUMMARY.md​
+  readme: flatiron-school/README.md
+  summary: flatiron-school/SUMMARY.md​

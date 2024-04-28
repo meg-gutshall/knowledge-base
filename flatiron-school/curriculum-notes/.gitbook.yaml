@@ -1,5 +1,5 @@
 root: ./flatiron-school/curriculum-notes/
 
 ​structure:
-  readme: README.md
-  summary: SUMMARY.md​
+  readme: flatiron-school/curriculum-notes/README.md
+  summary: flatiron-school/curriculum-notes/SUMMARY.md​
