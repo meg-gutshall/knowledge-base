@@ -1,35 +1,17 @@
-# Self-Paced Software Engineering Curriculum
+# Knowledge Base
 
-## Module 1: Welcome
+This repo is meant to hold information and notes from when I began learning how to program through the Flatiron School's Self-Paced Software Engineering program and beyond.
 
-## Module 2: Git and GitHub
+### Author(s)
 
-## Module 3: Intro to Ruby Development
+[**Meg Gutshall**](https://github.com/meg-gutshall/)
 
-## Module 4: Introduction to HTML and CSS
+See also the list of contributors who participated in this project.
 
-## Module 5: Procedural Ruby
+### Contributors
 
-## Module 6: Object Oriented Ruby
+TBA
 
-## Setting Up Your Local Environment
+### License
 
-## Module 7: SQL
-
-## Module 8: ORMs and Active Record
-
-## Module 9: Rack
-
-## Module 10: HTML Continued
-
-## Module 11: CSS Continued
-
-## Module 12: Sinatra
-
-## Module 13: Rails
-
-## Module 14: Front-End Web Programming in JavaScript
-
-## Module 15: React
-
-## Module 16: Redux
+This project is licensed under the MIT License - see the LICENSE.md file for details.
